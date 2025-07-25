@@ -75,7 +75,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/settings/profile/<Pirrique>.png"
+      src="https://avatars.githubusercontent.com/u/101512356?v=4"
     />
     <p>&nbsp&nbsp&nbspHenrique Ávila<br>
     &nbsp&nbsp&nbsp
