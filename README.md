@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="./ebook/CSS. Inacreditável em pouco tempo – Um ebook.pdf" target="_blank"> 📕Clique aqui para ler</a>
+[📕Clique aqui para ler](./ebook/CSS. Inacreditável em pouco tempo – Um ebook.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
