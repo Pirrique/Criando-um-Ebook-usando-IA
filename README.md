@@ -42,17 +42,9 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título para um ebook com o tema CSS, o nicho é programação de páginas web, subnicho para que serve o CSS. Dê 5 variações de títulos, direcionados para iniciantes em criação de página web.                                                        |
 | conteúdo | Prossiga com a criação do ebook, de acordo com os tópicos sugeridos. O título é “CSS. Inacreditável em pouco tempo”, e o subtítulo é “Um ebook”.                                        |
-| conteúdo | Escolha as melhores ferramentas a serem usadas
-Crie três capítulos iniciais, com conteúdo simples, em uma linguagem fácil para iniciantes, contendo exemplos e o passo a passo de como usar, desde como abrir e criar os arquivos nas ferramentas utilizadas.
-Os capítulos iniciais serão:
-Capítulo 1: O Que É CSS?
-Capítulo 2: Como Usar o CSS na Sua Página
-Capítulo 3: Personalizando Elementos com CSS                       |
+| conteúdo | Escolha as melhores ferramentas a serem usadas. Crie três capítulos iniciais, com conteúdo simples, em uma linguagem fácil para iniciantes, contendo exemplos e o passo a passo de como usar, desde como abrir e criar os arquivos nas ferramentas utilizadas. Os capítulos iniciais serão: Capítulo 1: O Que É CSS? Capítulo 2: Como Usar o CSS na Sua Página. Capítulo 3: Personalizando Elementos com CSS.                       |
 | conteúdo | Continue com os próximos capítulos, incluindo exercícios práticos, com comentários nos códigos. Deixe claro o local no corpo da construção onde deve ser acrescentado ou alterado o código. Imagine que seja um curso rápido, mas que inclua tudo que for importante para criar uma página web completa.                 |
-| conteúdo | Continue com:
--	Capítulo de efeitos visuais e transições
-•	Como organizar projetos em páginas separadas
-•	Como publicar seu site gratuitamente (por exemplo, no GitHub Pages)?                                                            |
+| conteúdo | Continue com: - Capítulo de efeitos visuais e transições. - Como organizar projetos em páginas separadas. - Como publicar seu site gratuitamente (por exemplo, no GitHub Pages)?                                                            |
 | conteúdo | Imagine sendo o criador deste ebook, e crie um breve agradecimento aos leitores, enfatizando que é um ebook básico e incentivando a buscar por novos conteúdos. Cite alguns conteúdos que complemente e melhore o que foi feito até agora.               |
 
 Midjourney：
