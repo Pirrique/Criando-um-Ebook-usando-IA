@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/Imagens/capaCSS.png">
+    <img width="100" src=".github/Imagens/banner.png">
 </p>
 
 
@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./Imagens/capaCSS.png"
     width="400"  
 />
 </p>
@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Pirrique/Criando-um-Ebook-usando-IA/blob/main/ebook/CSS. Inacreditável em pouco tempo – Um ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -75,7 +75,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/settings/profile /< Pirrique>.png"
+      src="https://github.com/settings/profile/<Pirrique>.png"
     />
     <p>&nbsp&nbsp&nbspHenrique Ávila<br>
     &nbsp&nbsp&nbsp
