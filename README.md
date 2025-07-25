@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Pirrique/Criando-um-Ebook-usando-IA/blob/main/ebook/CSS. Inacreditável em pouco tempo – Um ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Pirrique/Criando-um-Ebook-usando-IA/blob/main/ebook/CSS.%20Inacredit%C3%A1vel%20em%20pouco%20tempo%20%E2%80%93%20Um%20ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
