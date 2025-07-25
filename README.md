@@ -20,12 +20,12 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso na plataforma da [DIO](https://dio.me)
+  ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-[📕Clique aqui para ler](./ebook/CSS. Inacreditável em pouco tempo – Um ebook.pdf)
+<a href="./ebook/CSS. Inacreditável em pouco tempo – Um ebook.pdf" target="_blank"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
