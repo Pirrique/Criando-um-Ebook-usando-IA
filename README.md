@@ -29,6 +29,8 @@ seguem abaixo.
 
 [Abrir index.html](./Meu%20site/index.html)
 
+<a href="./Meu%20site/index.html" target="_blank">Abrir index.html em nova guia</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
