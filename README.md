@@ -25,8 +25,8 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-[📕Clique aqui para ler](./ebook/Um%20ebook.pdf)
-
+[📕 Clique aqui para ler o e-book](./ebook/Um%20ebook.pdf)
+[📕 Clique aqui para ver o site](file:///D:/Cursos/TONNIE%20-%20Java%20and%20AI%20in%20Europe/Criando-um-Ebook-usando-IA/Meu%20site/index.html)
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
