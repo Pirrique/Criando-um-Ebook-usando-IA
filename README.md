@@ -26,7 +26,9 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 seguem abaixo.
 
 [📕 Clique aqui para ler o e-book](./ebook/Um%20ebook.pdf) 
-[📕 Clique aqui para ver o site](./Meu%20site/index.html)
+
+[Abrir index.html](./Meu%20site/index.html)
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
