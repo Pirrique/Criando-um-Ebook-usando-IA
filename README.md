@@ -1,5 +1,5 @@
-<p align="center">
-    <img width="100" src=".github/Imagens/banner.png">
+﻿<p align="center">
+    <img width="100" src="Imagens/banner.png">
 </p>
 
 
@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="./ebook/CSS. Inacreditável em pouco tempo – Um ebook.pdf" target="_blank"> 📕Clique aqui para ler</a>
+<a href="./ebook/Um ebook.pdf" target="_blank"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
