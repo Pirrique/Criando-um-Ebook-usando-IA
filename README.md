@@ -27,6 +27,8 @@ seguem abaixo.
 
 [📕 Clique aqui para ler o e-book](./ebook/Um%20ebook.pdf) 
 
+[Baixar index.html](./Meu%20site/index.html?raw=true)
+
 [Abrir index.html](./Meu%20site/index.html)
 
 <a href="file:///D:/Cursos/TONNIE%20-%20Java%20and%20AI%20in%20Europe/Criando-um-Ebook-usando-IA/Meu%20site/index.html" target="_blank">Abrir index.html em nova guia</a>
