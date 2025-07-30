@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-[📕 Clique aqui para ler o e-book](./ebook/Um%20ebook.pdf) 
+[📕 Clique aqui para ler o ebook](./ebook/Um%20ebook.pdf)
 
 [📕 Meu Site](./Meu%20site?raw=true) 
 Nesta pasta está toda a estrutura usada para criar o site da figura abaixo.
