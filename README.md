@@ -27,9 +27,7 @@ seguem abaixo.
 
 [📕 Clique aqui para ler o e-book](./ebook/Um%20ebook.pdf) 
 
-[📕 Baixar index.html](./Meu%20site?raw=true)
-
-Neste Link poderá baixar a estrutura para criar um site como o da figura abaixo.
+[📕 Meu Site](./Meu%20site?raw=true) Nesta pasta está toda a estrutura usada para criar o site da figura abaixo.
 <p align="center">
 <img 
     src="./Imagens/TelaSite.png"
