@@ -29,7 +29,7 @@ seguem abaixo.
 
 [Abrir index.html](./Meu%20site/index.html)
 
-<a href="./Meu%20site/index.html" target="_blank">Abrir index.html em nova guia</a>
+<a href="file:///D:/Cursos/TONNIE%20-%20Java%20and%20AI%20in%20Europe/Criando-um-Ebook-usando-IA/Meu%20site/index.html" target="_blank">Abrir index.html em nova guia</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
