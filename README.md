@@ -27,12 +27,15 @@ seguem abaixo.
 
 [📕 Clique aqui para ler o e-book](./ebook/Um%20ebook.pdf) 
 
-[Baixar index.html](./Meu%20site/index.html?raw=true)
+[📕 Baixar index.html](./Meu%20site?raw=true)
 
-[Abrir index.html](./Meu%20site/index.html)
-
-<a href="file:///D:/Cursos/TONNIE%20-%20Java%20and%20AI%20in%20Europe/Criando-um-Ebook-usando-IA/Meu%20site/index.html" target="_blank">Abrir index.html em nova guia</a>
-
+Neste Link poderá baixar a estrutura para criar um site como o da figura abaixo.
+<p align="center">
+<img 
+    src="./Imagens/TelaSite.png"
+    width="400"  
+/>
+</p>
 
 ## 💻 Tecnologias utilizadas no projeto
 
